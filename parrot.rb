@@ -1,3 +1,3 @@
 def parrot.rb("Squawk")
-  puts parrots.rb
+  parrot = "Squawk"
 end
